@@ -1,0 +1,23 @@
+{
+  "name": "inpm-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "inpm": "./bin/cli.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreGeng/inpm-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreGeng/inpm-cli/issues"
+  },
+  "homepage": "https://github.com/AndreGeng/inpm-cli#readme"
+}
